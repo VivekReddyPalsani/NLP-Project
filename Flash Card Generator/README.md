@@ -128,12 +128,12 @@ The project demanded a lot of experimentation with libraries such as Hugging Fac
 
 **References** 
 
-https://www.pytorchlightning.ai/
-https://huggingface.co/deepset/roberta-base-squad2
-https://huggingface.co/valhalla/t5-base-qg-hl
-https://huggingface.co/sentence-transformers/paraphrase-MiniLM-L6-v2
-https://www.nltk.org/
-https://www.sbert.net/
-https://huggingface.co/tasks/question-answering
+[https://www.pytorchlightning.ai/](https://www.pytorchlightning.ai/)
+[https://huggingface.co/deepset/roberta-base-squad2](https://huggingface.co/deepset/roberta-base-squad2)
+[https://huggingface.co/valhalla/t5-base-qg-hl](https://huggingface.co/valhalla/t5-base-qg-hl)
+[https://huggingface.co/sentence-transformers/paraphrase-MiniLM-L6-v2](https://huggingface.co/sentence-transformers/paraphrase-MiniLM-L6-v2)
+[https://www.nltk.org/](https://www.nltk.org/)
+[https://www.sbert.net/](https://www.sbert.net/)
+[https://huggingface.co/tasks/question-answering](https://huggingface.co/tasks/question-answering)
 
 **Note** : Some assistance was taken from ChatGPT to refine code and generate specific components for this project.
