@@ -34,7 +34,7 @@ academic-text-nlp-tools/
 │
 ├── A Translation Model/  
 │   ├── code.py           
-│   ├── predict.py        
+│   ├── translate.py        
 │   └── README.md        
 │
 ├── Key Phrase Extractor/  
