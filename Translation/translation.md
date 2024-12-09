@@ -102,4 +102,4 @@ The fine-tuned mBART model has proven its ability to deliver high-quality transl
 
 --- 
 
-This report highlights the robust process and outcomes of fine-tuning the mBART model, showing its potential to revolutionize multilingual academic support.
+**Note:** Some assistance was taken from ChatGPT to generate and refine parts of the code used in this project.
