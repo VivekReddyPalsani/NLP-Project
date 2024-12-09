@@ -1,4 +1,4 @@
-##### **Difficult Word Extractor and Synonym Finder**  
+#### **Difficult Word Extractor and Synonym Finder**  
 
 ### **Introduction**  
 Language complexity often creates barriers in education, especially when learners encounter advanced vocabulary in academic texts. To address this, we developed two powerful NLP tools:  
