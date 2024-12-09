@@ -37,14 +37,12 @@ academic-text-nlp-tools/
 │   ├── predict.py        
 │   └── README.md        
 │
-├── key-phrase-extraction/  
-│   ├── code.py          
-│   ├── predict.py        
+├── Key Phrase Extractor/  
+│   ├── code.py                
 │   └── README.md        
 │
 ├── summarization/  
-│   ├── code.py          
-│   ├── predict.py       
+│   ├── code.py                
 │   └── README.md         
 │
 ├── Flash Card Generator/  
@@ -52,8 +50,8 @@ academic-text-nlp-tools/
 │   └── README.md        
 │
 ├── word-assistance-tool/  
-│   ├── code.py            
-│   ├── predict.py        
+│   ├── Difficult Word Extractor and Meaning Retriver.py            
+│   ├── Synonym Finder.py        
 │   └── README.md        
 │
 └── README.md            
@@ -80,10 +78,10 @@ academic-text-nlp-tools/
 
 | Tool                        | Contributor Name     | Roll Number      |  
 |-----------------------------|----------------------|------------------|  
-| **Translation Model**       | Vivek Reddy Palsani  | SE22UARI122      |  
-| **Key Phrase Extraction**   | Varshika Peddi       | SE22UARI124      |  
+| **A Translation Model**     | Vivek Reddy Palsani  | SE22UARI122      |  
+| **Key Phrase Extractor**    | Varshika Peddi       | SE22UARI124      |  
 | **Summarization**           | Sarvani Penupothu    | SE22UARI127      |  
-| **Question Generation**     | Shivani Nandamuri    | SE22UARI109      |  
+| **Flash Card Generator**    | Shivani Nandamuri    | SE22UARI109      |  
 | **Word Assistance Tool**    | Vignesh Anoop Naidu  | SE22UARI108      |  
 
 ---
