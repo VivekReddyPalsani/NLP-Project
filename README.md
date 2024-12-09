@@ -33,26 +33,32 @@ The repository is organized as follows:
 academic-text-nlp-tools/
 │
 ├── translation-model/  
-│   ├── code.py  
-│   └── README.md  
+│   ├── code.py           
+│   ├── predict.py        
+│   └── README.md        
 │
 ├── key-phrase-extraction/  
-│   ├── code.py  
-│   └── README.md  
+│   ├── code.py          
+│   ├── predict.py        
+│   └── README.md        
 │
 ├── summarization/  
-│   ├── code.py  
-│   └── README.md  
+│   ├── code.py          
+│   ├── predict.py       
+│   └── README.md         
 │
 ├── question-generation/  
-│   ├── code.py  
-│   └── README.md  
+│   ├── code.py          
+│   ├── predict.py        
+│   └── README.md        
 │
 ├── word-assistance-tool/  
-│   ├── code.py  
-│   └── README.md  
+│   ├── code.py            
+│   ├── predict.py        
+│   └── README.md        
 │
-└── README.md  
+└── README.md            
+ 
 ```
 
 ---
@@ -67,7 +73,7 @@ academic-text-nlp-tools/
 
 2. Navigate to the folder of the desired tool (e.g., `translation-model/`).  
 
-3. Follow the instructions in the respective folder's `README.md` to set up and execute the model.  
+3. Follow the README file in the respective folder's `README.md` for more information about the models.  
 
 ---
 
