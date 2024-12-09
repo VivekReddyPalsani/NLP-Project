@@ -126,14 +126,20 @@ The project demanded a lot of experimentation with libraries such as Hugging Fac
 6. **User Interaction and Flexibility**:  
    To make the tool more intuitive, I added input validation and allowed users to set the number of flashcards generated, ensuring the system worked seamlessly within defined limits.
 
-**References** 
+Here is a well-formatted version of the markdown file for the references:
 
-[https://www.pytorchlightning.ai/](https://www.pytorchlightning.ai/)
-[https://huggingface.co/deepset/roberta-base-squad2](https://huggingface.co/deepset/roberta-base-squad2)
-[https://huggingface.co/valhalla/t5-base-qg-hl](https://huggingface.co/valhalla/t5-base-qg-hl)
-[https://huggingface.co/sentence-transformers/paraphrase-MiniLM-L6-v2](https://huggingface.co/sentence-transformers/paraphrase-MiniLM-L6-v2)
-[https://www.nltk.org/](https://www.nltk.org/)
-[https://www.sbert.net/](https://www.sbert.net/)
-[https://huggingface.co/tasks/question-answering](https://huggingface.co/tasks/question-answering)
+---
+
+## **References**
+
+- [PyTorch Lightning](https://www.pytorchlightning.ai/)  
+- [Hugging Face - RoBERTa Base (SQuAD2)](https://huggingface.co/deepset/roberta-base-squad2)  
+- [Hugging Face - T5 Base Question Generation](https://huggingface.co/valhalla/t5-base-qg-hl)  
+- [Hugging Face - Sentence Transformers (Paraphrase MiniLM)](https://huggingface.co/sentence-transformers/paraphrase-MiniLM-L6-v2)  
+- [NLTK (Natural Language Toolkit)](https://www.nltk.org/)  
+- [Sentence Transformers](https://www.sbert.net/)  
+- [Hugging Face - Question Answering](https://huggingface.co/tasks/question-answering)
+
+---
 
 **Note** : Some assistance was taken from ChatGPT to refine code and generate specific components for this project.
