@@ -32,7 +32,7 @@ The repository is organized as follows:
 ```
 academic-text-nlp-tools/
 │
-├── translation-model/  
+├── Translation/  
 │   ├── code.py           
 │   ├── predict.py        
 │   └── README.md        
@@ -47,7 +47,7 @@ academic-text-nlp-tools/
 │   ├── predict.py       
 │   └── README.md         
 │
-├── question-generation/  
+├── Flash Card Generator/  
 │   ├── code.py          
 │   ├── predict.py        
 │   └── README.md        
