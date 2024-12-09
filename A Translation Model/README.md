@@ -99,7 +99,7 @@ To address these issues, we adopted the **Telugu-LLM-Labs/Telugu_Teknium_GPTeach
 #### **Model Download**
 Download the fine-tuned mBART model from the link below and save it to your directory:
 
-**[Download Model](https://mahindraecolecentrale-my.sharepoint.com/:f:/g/personal/se22uari122_mahindrauniversity_edu_in/EpRLUwJyi5RJsgHkrc1J_gEBQyRW98EDOnAlHowz-P4_cA?e=mhPPkJ)**
+**[Download Model](https://mahindraecolecentrale-my.sharepoint.com/:f:/g/personal/se22uari122_mahindrauniversity_edu_in/EtnsNzet-h5KqarxFxHxllUBQW19CPlobYdbh0WMcc72AQ?e=kHuzHE)**
 
 ---
 
