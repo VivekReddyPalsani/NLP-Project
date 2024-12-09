@@ -1,4 +1,4 @@
-**Introduction**  
+### **Introduction**  
 Language complexity often creates barriers in education, especially when learners encounter advanced vocabulary in academic texts. To address this, we developed two powerful NLP tools:  
 1. **Difficult Word Extractor and Meaning Retriever**: Identifies challenging words in a given text and provides their meanings with part-of-speech tagging.  
 2. **Synonym Finder**: Suggests contextually appropriate synonyms to enhance understanding and vocabulary building.  
