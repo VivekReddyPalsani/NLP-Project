@@ -126,8 +126,14 @@ The project demanded a lot of experimentation with libraries such as Hugging Fac
 6. **User Interaction and Flexibility**:  
    To make the tool more intuitive, I added input validation and allowed users to set the number of flashcards generated, ensuring the system worked seamlessly within defined limits.
 
----
+**References** 
 
-**FLASHCARD GENERATION SYSTEM**
+https://www.pytorchlightning.ai/
+https://huggingface.co/deepset/roberta-base-squad2
+https://huggingface.co/valhalla/t5-base-qg-hl
+https://huggingface.co/sentence-transformers/paraphrase-MiniLM-L6-v2
+https://www.nltk.org/
+https://www.sbert.net/
+https://huggingface.co/tasks/question-answering
 
---- 
+**Note** : Some assistance was taken from ChatGPT to refine code and generate specific components for this project.
