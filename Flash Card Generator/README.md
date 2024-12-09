@@ -52,11 +52,31 @@ It leverages advanced NLP models to perform the following tasks:
 
 ---
 
-**Running the Code**  
-1. Input your text when prompted.  
-2. Input the number of flashcards that are required to be generated.
+**Running the Code**
 
-**Example**:  
+1. Input your text when prompted.  
+2. Input the number of flashcards that are required to be generated.  
+
+**Example**  
+
+**Input Text:**  
+"The water cycle is driven by the Sun's energy, which causes water to evaporate from oceans, rivers, and lakes. The water vapor rises and cools, eventually condensing into clouds. Precipitation occurs when water droplets become heavy enough to fall as rain, snow, or hail. The water cycle is a continuous process that helps maintain the Earth's water balance."
+
+**Number of Flashcards:**  
+3  
+
+**Generated Flashcards:**  
+- **Flashcard 1**  
+  - **Q:** What drives the water cycle by evaporating water?  
+  - **A:** The Sun's energy.
+
+- **Flashcard 2**  
+  - **Q:** Where does water evaporate from in the water cycle?  
+  - **A:** Oceans, rivers, and lakes.
+
+- **Flashcard 3**  
+  - **Q:** What happens when water vapor rises in the water cycle?  
+  - **A:** It cools and condenses to form clouds.
 
 ---
 
