@@ -17,22 +17,37 @@ To address these challenges, the final model leveraged **SciBERT**, a domain-spe
 
 ---
 
-## **Evaluation and Results**  
-
 ### **Example 1**  
-- **Input**: "Deep learning is a key component of modern artificial intelligence."  
-- **Extracted Keyphrases**: ["deep learning", "artificial intelligence", "key component"]  
-
-### **Example 2**  
-- **Input**: "It's a software program that manages all other application programs in a computer. The OS acts as a bridge between hardware and software, and allows users to interact with the computer."  
-- **Extracted Keyphrases**: [“software program”, “application programs”, “os”, “hardware”, “software”, “users”, “computer”] 
-
-### **Analysis of Results**  
-- **Contextual Accuracy**: Captures domain-specific vocabulary (e.g., "photosynthesis").  
-- **Precision in Keyphrases**: Removes irrelevant or overly generic terms.  
-- **Fluency in Extraction**: Combines fragmented subwords into meaningful phrases (e.g., "deep learning").  
+- **Input:**  
+  "Deep learning is a key component of modern artificial intelligence."  
+- **Extracted Keyphrases:**  
+  ["deep learning", "artificial intelligence", "key component"]  
 
 ---
+
+### **Example 2**  
+- **Input:**  
+  "It’s a software program that manages all other application programs in a computer. The OS acts as a bridge between hardware and software, and allows users to interact with the computer."  
+- **Extracted Keyphrases:**  
+  ["software program", "operating system", "hardware", "computer"]  
+
+---
+
+### **Analysis of Results**
+
+#### 1. **Contextual Accuracy**  
+- The model identifies relevant terms in the input, ensuring domain-specific accuracy.  
+- For **Example 2**, phrases like “software program” and “operating system” are essential to the description, while irrelevant terms are excluded.
+
+#### 2. **Precision in Keyphrases**  
+- The extracted phrases are concise and relevant, avoiding repetition or unnecessary details.  
+- **Example 2** highlights the critical concepts (“software program”, “operating system”) without overwhelming the output with less critical terms.
+
+#### 3. **Fluency in Extraction**  
+- Keyphrases like “deep learning” and “software program” are extracted as complete, coherent phrases.  
+- The output ensures readability and avoids fragmented or incomplete terms.
+
+--- 
 
 ## **Collaborative Models and Use Cases**  
 This model complements other NLP tools to enhance academic learning:  
