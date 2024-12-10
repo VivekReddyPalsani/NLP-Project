@@ -56,6 +56,49 @@ The **English-Swahili Sentence Pairs Dataset** was used to create training data 
 
 ---
 
+
+### **Example Output**
+
+```python
+text_input = "The enigmatic cryptographer, deciphering the elusive code, inadvertently revealed the long-lost secret, altering the course of history."
+difficulty_level = 1  # Use 1 for easy, 2 for medium, and 3 for difficult words
+display_words_from_text(text_input, difficulty_level)
+```
+
+**Output:**
+
+**Words and Meanings for Difficulty Level 1:**
+
+- **Course:**
+  - (n) education imparted in a series of lessons or meetings
+  - (n) a connected series of events or actions or developments
+  - (n) general line of orientation
+
+- **Revealed:**
+  - (v) make visible
+  - (v) make known to the public information that was previously known only to a few people or that was meant to be kept a secret
+  - (v) disclose directly or through prophets
+
+- **Code:**
+  - (n) a set of rules or principles or laws (especially written ones)
+  - (n) a coding system used for transmitting messages requiring brevity or secrecy
+  - (n) (computer science) the symbolic arrangement of data or instructions in a computer program or the set of such instructions
+
+- **History:**
+  - (n) the aggregate of past events
+  - (n) a record or narrative description of past events
+  - (n) the discipline that records and interprets past events involving human beings
+
+- **Elusive:**
+  - (s) difficult to describe
+  - (s) skillful at eluding capture
+
+- **Cryptographer:**
+  - (n) decoder skilled in the analysis of codes and cryptograms
+
+
+---
+
 ### **Key Features and Workflow**
 
 1. **Difficult Word Extractor**:  
