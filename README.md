@@ -42,8 +42,8 @@ academic-text-nlp-tools/
 │   └── README.md        
 │
 ├── summarization/  
-│   ├── code.py
-|   ├── extract.py           
+│   ├── Abstractive.py
+|   ├── Extractive.py           
 │   └── README.md         
 │
 ├── Flash Card Generator/  
