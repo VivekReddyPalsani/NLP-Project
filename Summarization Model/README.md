@@ -90,8 +90,7 @@ To generate coherent, high-quality summaries using the **facebook/bart-large-cnn
 
 ### **Key References**
 - **ChatGPT**: Assistance was taken from ChatGPT for coding guidance and resolving technical challenges during the development of the summarization model.
-- **GitHub Repository**: The dataset was sourced from a GitHub repository containing professionally crafted summaries of news articles.  
-  [https://github.com/AjNavneet/BART-Text-Summarization/blob/master/readme.md](https://github.com/AjNavneet/BART-Text-Summarization/blob/master/readme.md)
+- [https://youtu.be/p7V4Aa7qEpw](https://youtu.be/p7V4Aa7qEpw)
 - **Hugging Face**: Library for pre-trained models and datasets, specifically for utilizing the **facebook/bart-large-cnn** model and the Transformers library for tokenization and generation.
 
 --- 
