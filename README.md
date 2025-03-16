@@ -89,8 +89,6 @@ academic-text-nlp-tools/
 
 ## **Acknowledgments**  
 
-This project was developed as part of an academic initiative to enhance the accessibility and usability of educational content for students across linguistic and cognitive barriers. Special thanks to our mentor for her invaluable support.  
-
-**Note:** Some assistance was taken from ChatGPT to generate and refine parts of the code used in this project.  
+This project was developed as part of an academic initiative to enhance the accessibility and usability of educational content for students across linguistic and cognitive barriers. Special thanks to our mentor for her invaluable support. 
 
 ---  
