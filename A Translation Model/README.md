@@ -161,7 +161,3 @@ The fine-tuned mBART model successfully bridges language barriers for Telugu-spe
 1. Hugging Face Transformers Documentation. [https://huggingface.co/docs/transformers/](https://huggingface.co/docs/transformers/)  
 2. OPUS100 Dataset. [https://opus.nlpl.eu/](https://opus.nlpl.eu/)  
 3. Telugu-LLM-Labs Dataset. [https://huggingface.co/datasets/Telugu-LLM-Labs/telugu_teknium_GPTeacher_general_instruct_filtered_romanized](https://huggingface.co/datasets/Telugu-LLM-Labs/telugu_teknium_GPTeacher_general_instruct_filtered_romanized)  
-
----
-
-**Note**: Some assistance was taken from ChatGPT to refine code and generate specific components for this project.
